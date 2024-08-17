@@ -1,0 +1,14 @@
+# MongoDB Charts Descriptions
+
+This document provides descriptions and insights for the charts generated from the `seneca_students` database.
+
+## 1. Chart: Distribution of Students by Status
+
+
+### Description:
+This bar chart shows the distribution of students based on their status (e.g., "active", "graduated", "dropped"). The horizontal bars represent the count of students in each status category.
+
+### Insights:
+- The chart shows that there are slightly more active students than those who have graduated or dropped out.
+- The "active" status has the highest count, followed by "dropped" and "graduated".
+- This distribution helps in understanding the current state of the student population in terms of their academic progress.
